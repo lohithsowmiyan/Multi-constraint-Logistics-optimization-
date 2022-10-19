@@ -1,0 +1,701 @@
+Solution
+Number of goods: 7
+Total cost: 205073.99999878596
+Transportation cost: 16359.999999999982
+Warehouse cost: 1409.9999987860074
+Tax cost: 187303.99999999997
+------------------------------------
+Goods-1  Category: Furniture
+Start date: 2018-02-02
+Arrival date: 2018-02-06
+Route:
+(1)Date: 2018-02-02  From: Malaysia Warehouse  To: Malaysia Airport  By: Truck
+(2)Date: 2018-02-03  From: Malaysia Airport  To: Shanghai Airport  By: Air
+(3)Date: 2018-02-05  From: Shanghai Airport  To: Shanghai Warehouse  By: Truck
+------------------------------------
+Goods-2  Category: Paper plates
+Start date: 2018-02-03
+Arrival date: 2018-02-15
+Route:
+(1)Date: 2018-02-03  From: Singapore Warehouse  To: Malaysia Warehouse  By: Truck
+(2)Date: 2018-02-06  From: Malaysia Warehouse  To: Malaysia Port  By: Truck
+(3)Date: 2018-02-07  From: Malaysia Port  To: Shanghai Port  By: Sea
+(4)Date: 2018-02-14  From: Shanghai Port  To: Shanghai Warehouse  By: Truck
+------------------------------------
+Goods-3  Category: Pharmaceutical drugs
+Start date: 2018-02-04
+Arrival date: 2018-02-15
+Route:
+(1)Date: 2018-02-04  From: Singapore Warehouse  To: Malaysia Warehouse  By: Truck
+(2)Date: 2018-02-06  From: Malaysia Warehouse  To: Malaysia Port  By: Truck
+(3)Date: 2018-02-07  From: Malaysia Port  To: Shanghai Port  By: Sea
+(4)Date: 2018-02-14  From: Shanghai Port  To: Shanghai Warehouse  By: Truck
+------------------------------------
+Goods-4  Category: Cigarette
+Start date: 2018-02-05
+Arrival date: 2018-02-15
+Route:
+(1)Date: 2018-02-05  From: Wuxi Warehouse  To: Shanghai Warehouse  By: Truck
+(2)Date: 2018-02-06  From: Shanghai Warehouse  To: Shanghai Port  By: Truck
+(3)Date: 2018-02-07  From: Shanghai Port  To: Malaysia Port  By: Sea
+(4)Date: 2018-02-14  From: Malaysia Port  To: Malaysia Warehouse  By: Truck
+------------------------------------
+Goods-5  Category: Apple
+Start date: 2018-02-06
+Arrival date: 2018-02-16
+Route:
+(1)Date: 2018-02-06  From: Shanghai Warehouse  To: Shanghai Port  By: Truck
+(2)Date: 2018-02-07  From: Shanghai Port  To: Malaysia Port  By: Sea
+(3)Date: 2018-02-14  From: Malaysia Port  To: Malaysia Warehouse  By: Truck
+(4)Date: 2018-02-15  From: Malaysia Warehouse  To: Singapore Warehouse  By: Truck
+------------------------------------
+Goods-6  Category: Durian
+Start date: 2018-02-07
+Arrival date: 2018-02-08
+Route:
+(1)Date: 2018-02-07  From: Malaysia Warehouse  To: Singapore Warehouse  By: Truck
+------------------------------------
+Goods-7  Category: Furniture
+Start date: 2018-02-08
+Arrival date: 2018-02-09
+Route:
+(1)Date: 2018-02-08  From: Wuxi Warehouse  To: Shanghai Warehouse  By: TruckSolution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-09-04  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-08-26
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-03  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-05  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-25  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-15
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-09-14  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 138000.00000000003
+Transportation cost: 136500.00000000003
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-25
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-03  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-04  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-09-24  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 138000.00000000003
+Transportation cost: 136500.00000000003
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-10-05
+Route:
+(1)Date: 2022-08-02  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-03  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-20  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-10-04  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-03  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-05  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-09-04  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-15
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-09-14  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-08-26
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-25  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 138000.00000000003
+Transportation cost: 136500.00000000003
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-25
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-03  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-04  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-09-24  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 138000.00000000003
+Transportation cost: 136500.00000000003
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-10-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-08  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-20  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-10-04  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-09-04  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-15
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-05  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-09-14  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-08-26
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-03  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-05  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-25  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 138000.0
+Transportation cost: 136500.0
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-25
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-03  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-04  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-09-24  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 138000.0
+Transportation cost: 136500.0
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-10-05
+Route:
+(1)Date: 2022-08-02  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-03  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-20  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-10-04  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-05  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-09-04  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-15
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-09-14  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5698149.999999999
+Transportation cost: 5696649.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-08-26
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-05  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-25  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 138000.0
+Transportation cost: 136500.0
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-25
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-03  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-04  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-09-24  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 138000.0
+Transportation cost: 136500.0
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-10-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-03  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-04  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-10-04  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5764349.999999999
+Transportation cost: 5762849.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-05  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-08  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-08-31  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-09-01  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-09-03  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5764349.999999999
+Transportation cost: 5762849.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-15
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-05  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-08  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-09-10  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-09-11  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-09-13  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5764349.999999999
+Transportation cost: 5762849.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-08-26
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-05  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-08  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-08-21  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-08-22  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-08-24  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 204200.0
+Transportation cost: 202700.0
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-25
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-05  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-09-19  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-09-20  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-09-21  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-09-23  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 204200.0
+Transportation cost: 202700.0
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-10-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-03  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-13  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-09-29  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-09-30  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-10-01  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-10-03  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5764349.999999999
+Transportation cost: 5762849.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-05  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-08  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-08-31  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-09-01  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-09-03  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5764349.999999999
+Transportation cost: 5762849.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-15
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-09-09  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-09-10  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-09-11  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-09-13  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5764349.999999999
+Transportation cost: 5762849.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-08-26
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-03  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-05  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-07  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-20  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-08-21  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-08-22  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-08-24  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 204200.0
+Transportation cost: 202700.0
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-25
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-03  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-04  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-09-19  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-09-20  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-09-21  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-09-23  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 204200.00000000006
+Transportation cost: 202700.00000000006
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-10-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-03  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-13  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-09-29  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-09-30  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-10-01  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-10-03  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5764349.999999999
+Transportation cost: 5762849.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-05  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-08  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-08-31  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-09-01  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-09-03  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5764349.999999999
+Transportation cost: 5762849.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-15
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-05  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-08  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-09-10  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-09-11  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-09-13  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 5764349.999999999
+Transportation cost: 5762849.999999999
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-08-26
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-03  From: Bangalore Railway Station  To: Delhi Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-05  From: Delhi Railway Station  To: Delhi Air Cargo, Delhi  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-06  From: Delhi Air Cargo, Delhi  To: Boston International Airport, USA  Mode: Air  Carrier: XYZ
+(5)Date: 2022-08-20  From: Boston International Airport, USA  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-08-21  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-08-22  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-08-24  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 204200.0
+Transportation cost: 202700.0
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-09-25
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-04  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-05  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-09-19  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-09-20  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-09-21  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-09-23  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
+Solution
+Number of goods: 1
+Total cost: 204200.0
+Transportation cost: 202700.0
+Warehouse cost: 0.0
+Tax cost: 1500.0
+------------------------------------
+Goods-1  Category: Honey
+Start date: 2022-08-01
+Arrival date: 2022-10-05
+Route:
+(1)Date: 2022-08-01  From: Bangalore Warehouse  To: Bangalore Railway Station  Mode: Truck  Carrier: XYZ
+(2)Date: 2022-08-02  From: Bangalore Railway Station  To: Chennai Railway Station  Mode: Rail  Carrier: XYZ
+(3)Date: 2022-08-03  From: Chennai Railway Station  To: Chennai Port, India  Mode: Truck  Carrier: XYZ
+(4)Date: 2022-08-04  From: Chennai Port, India  To: New York Sea Port, US  Mode: Sea  Carrier: XYZ
+(5)Date: 2022-09-29  From: New York Sea Port, US  To: Louisville Warehouse  Mode: Truck  Carrier: XYZ
+(6)Date: 2022-09-30  From: Louisville Warehouse  To: Louisville Railway Station  Mode: Truck  Carrier: XYZ
+(7)Date: 2022-10-01  From: Louisville Railway Station  To: Los Angeles Railway Station  Mode: Rail  Carrier: XYZ
+(8)Date: 2022-10-03  From: Los Angeles Railway Station  To: Los Angeles Sea Port, US  Mode: Truck  Carrier: XYZ
+
